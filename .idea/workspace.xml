@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe2801a-e444-45d1-b1b9-0786f4884801" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SistemaTurnosSoporte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ventana.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ventana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AtenderSiguienteTurnoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MostrarColaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ObtenerCantidadTurnosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ObtenerEspaciosDisponiblesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RegistrarTurnoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/VerSiguienteTurnoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SistemaTurnosSoporte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SistemaTurnosSoporte.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3CMPsfJ51Khsa4mGNcwcoDKdZS6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,7 +28,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
